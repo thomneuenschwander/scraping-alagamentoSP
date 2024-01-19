@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Main {
     private static final String basedURL = "https://www.cgesp.org/v3/alagamentos.jsp?dataBusca=";
-    private static String file = "C:\\Users\\Pichau\\Desktop\\ScrapingJava\\scraped\\ScrapingData";
+    private static String file = "C:\\Users\\Pichau\\Desktop\\scraping-alagamentoSP\\scraped\\ScrapingData";
     private static LocalDate getDate(String date){
         var formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         return LocalDate.parse(date, formatter);

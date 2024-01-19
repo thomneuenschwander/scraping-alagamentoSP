@@ -1,0 +1,42 @@
+07/01/2012,Zona Norte,Vila Maria/ Vila Guilherme,MARGINAL TIETE
+07/01/2012,Zona Norte,Vila Maria/ Vila Guilherme,AV EDUCADOR PAULO FREIRE
+07/01/2012,Zona Norte,Vila Maria/ Vila Guilherme,AV ARICANDUVA
+07/01/2012,Zona Norte,Vila Maria/ Vila Guilherme,AV PRES CASTELO BRANCO
+07/01/2012,Zona Norte,Vila Maria/ Vila Guilherme,AV CDSSA ELISABETH DE ROBIANO
+07/01/2012,Zona Norte,Vila Maria/ Vila Guilherme,AV ALCANTARA MACHADO
+07/01/2012,Zona Norte,Vila Maria/ Vila Guilherme,AV ALCANTARA MACHADO
+07/01/2012,Zona Norte,Aricanduva/ Vila Formosa,MARGINAL TIETE
+07/01/2012,Zona Norte,Aricanduva/ Vila Formosa,AV EDUCADOR PAULO FREIRE
+07/01/2012,Zona Norte,Aricanduva/ Vila Formosa,AV ARICANDUVA
+07/01/2012,Zona Norte,Aricanduva/ Vila Formosa,AV PRES CASTELO BRANCO
+07/01/2012,Zona Norte,Aricanduva/ Vila Formosa,AV CDSSA ELISABETH DE ROBIANO
+07/01/2012,Zona Norte,Aricanduva/ Vila Formosa,AV ALCANTARA MACHADO
+07/01/2012,Zona Norte,Aricanduva/ Vila Formosa,AV ALCANTARA MACHADO
+07/01/2012,Zona Norte,Mooca,MARGINAL TIETE
+07/01/2012,Zona Norte,Mooca,AV EDUCADOR PAULO FREIRE
+07/01/2012,Zona Norte,Mooca,AV ARICANDUVA
+07/01/2012,Zona Norte,Mooca,AV PRES CASTELO BRANCO
+07/01/2012,Zona Norte,Mooca,AV CDSSA ELISABETH DE ROBIANO
+07/01/2012,Zona Norte,Mooca,AV ALCANTARA MACHADO
+07/01/2012,Zona Norte,Mooca,AV ALCANTARA MACHADO
+07/01/2012,Zona Leste,Vila Maria/ Vila Guilherme,MARGINAL TIETE
+07/01/2012,Zona Leste,Vila Maria/ Vila Guilherme,AV EDUCADOR PAULO FREIRE
+07/01/2012,Zona Leste,Vila Maria/ Vila Guilherme,AV ARICANDUVA
+07/01/2012,Zona Leste,Vila Maria/ Vila Guilherme,AV PRES CASTELO BRANCO
+07/01/2012,Zona Leste,Vila Maria/ Vila Guilherme,AV CDSSA ELISABETH DE ROBIANO
+07/01/2012,Zona Leste,Vila Maria/ Vila Guilherme,AV ALCANTARA MACHADO
+07/01/2012,Zona Leste,Vila Maria/ Vila Guilherme,AV ALCANTARA MACHADO
+07/01/2012,Zona Leste,Aricanduva/ Vila Formosa,MARGINAL TIETE
+07/01/2012,Zona Leste,Aricanduva/ Vila Formosa,AV EDUCADOR PAULO FREIRE
+07/01/2012,Zona Leste,Aricanduva/ Vila Formosa,AV ARICANDUVA
+07/01/2012,Zona Leste,Aricanduva/ Vila Formosa,AV PRES CASTELO BRANCO
+07/01/2012,Zona Leste,Aricanduva/ Vila Formosa,AV CDSSA ELISABETH DE ROBIANO
+07/01/2012,Zona Leste,Aricanduva/ Vila Formosa,AV ALCANTARA MACHADO
+07/01/2012,Zona Leste,Aricanduva/ Vila Formosa,AV ALCANTARA MACHADO
+07/01/2012,Zona Leste,Mooca,MARGINAL TIETE
+07/01/2012,Zona Leste,Mooca,AV EDUCADOR PAULO FREIRE
+07/01/2012,Zona Leste,Mooca,AV ARICANDUVA
+07/01/2012,Zona Leste,Mooca,AV PRES CASTELO BRANCO
+07/01/2012,Zona Leste,Mooca,AV CDSSA ELISABETH DE ROBIANO
+07/01/2012,Zona Leste,Mooca,AV ALCANTARA MACHADO
+07/01/2012,Zona Leste,Mooca,AV ALCANTARA MACHADO
